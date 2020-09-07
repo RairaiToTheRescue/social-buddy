@@ -1,0 +1,12 @@
+.FriendStyle  {
+
+    border-radius: 30px;
+    border: 1px solid rgb(41, 55, 253);
+    margin: 10px;
+    padding-left: 20px;
+    width: 150px;
+    height: 48px;
+    font-size: 15px;
+    align-content: center;
+    border: 1px solid rgb(133, 116, 22);
+  }
